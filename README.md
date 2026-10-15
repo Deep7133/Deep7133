@@ -1,7 +1,6 @@
 <p align="center">
   <img src="./okok.gif" alt="profile Animation" width="400"/>
 </p>
-
 <h1 align="center">Hey, I'm Deep Menpara</h1>
 
 <h3 align="center">Aspiring Data Analyst | Turning Data into Actionable Insights 📊</h3>
