@@ -1,8 +1,31 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]()
-<h1 align="center">Hi 👋, I'm Deep Menpara</h1>
-<h3 align="center">A passionate Data Analyst</h3>
-<br/>
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Deep%20Menpara&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=17&descAlignY=58" width="100%" alt="Deep Menpara GitHub Banner"/>
+</p>
 
+<h1 align="center">Hi 👋, I'm Deep Menpara</h1>
+
+<h3 align="center">
+  Aspiring Data Analyst | Turning Data into Actionable Insights 📊
+</h3>
+
+<p align="center">
+  Passionate about data analysis, visualization, and solving business problems
+  using Python, SQL, Power BI, Excel, and Tableau.
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deep-menpara-628617326/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/_.deep.patel" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepMenpara&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
 
 ## 🌐 Socials:
 
