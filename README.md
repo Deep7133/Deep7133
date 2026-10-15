@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./data-analysis.gif" alt="Data Analysis Animation" width="400"/>
+  <img src="./okok.gif" alt="profile Animation" width="400"/>
 </p>
 
 <h1 align="center">Hey, I'm Deep Menpara</h1>
